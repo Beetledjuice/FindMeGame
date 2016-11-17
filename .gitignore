@@ -1,0 +1,8 @@
+Find Me/Debug/
+Debug/
+*.7z
+*.suo
+*.vcxproj
+*.filters
+*.db
+*.sln
